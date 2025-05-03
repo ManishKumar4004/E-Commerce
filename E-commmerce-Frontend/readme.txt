@@ -1,0 +1,1 @@
+This application is helps to the seller that can be sell their products online.
